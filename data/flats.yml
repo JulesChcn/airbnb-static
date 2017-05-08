@@ -1,0 +1,37 @@
+# data/flats.yml
+seb:
+  owner_name: Sebastien Saunier
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  max: 5
+romain:
+  owner_name: Romain Paillard
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  max: 6
+jules:
+  owner_name: Jules Chouchan
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Jules' place
+  summary: Welcome to Gotham City
+  city: Gotham City, DC
+  wifi: false
+  max: 2
+raph:
+  owner_name: Raphael Fosse
+  picture: http://placehold.it/150x150
+  owner_picture: http://placehold.it/150x150
+  name: Raph's home
+  summary: Nice place
+  city: Yamaha, MT
+  wifi: false
+  max: 4
