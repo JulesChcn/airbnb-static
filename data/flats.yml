@@ -1,8 +1,8 @@
 # data/flats.yml
 seb:
   owner_name: Sebastien Saunier
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
   name: Seb's home
   summary: Charming room in Montmartre
   city: Paris, France
@@ -10,8 +10,8 @@ seb:
   max: 5
 romain:
   owner_name: Romain Paillard
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
   name: Romain's home
   summary: Nice flat in Piccadilly
   city: London, UK
@@ -19,8 +19,8 @@ romain:
   max: 6
 jules:
   owner_name: Jules Chouchan
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: card-gotham.jpeg
+  owner_picture: jules.jpg
   name: Jules' place
   summary: Welcome to Gotham City
   city: Gotham City, DC
@@ -28,8 +28,8 @@ jules:
   max: 2
 raph:
   owner_name: Raphael Fosse
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: card-mt09.jpeg
+  owner_picture: raphael.jpg
   name: Raph's home
   summary: Nice place
   city: Yamaha, MT
