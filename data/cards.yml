@@ -1,0 +1,18 @@
+seb:
+  owner_picture: seb.jpg
+  owner_title: Seb's home
+  owner_description: Charming room with patio
+  city: Paris
+  city_picture: card-paris.jpg
+jules:
+  owner_picture: jules.jpg
+  owner_title: Jules's home
+  owner_description: Gotham City
+  city: DC
+  city_picture: card-gotham.jpeg
+raphael:
+  owner_picture: raphael.jpg
+  owner_title: Raphael's place
+  owner_description: MT-09
+  city: Yamaha
+  city_picture: card-mt09.jpeg
